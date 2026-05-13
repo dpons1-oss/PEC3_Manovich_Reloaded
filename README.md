@@ -18,16 +18,16 @@ Fecha: 12/05/2026
 
 ## Re-descubriendo la hibridacion: Waze
 <img width="1448" height="1086" alt="Waze" src="https://github.com/user-attachments/assets/577cc612-8e88-44c1-8ab4-41a4039c006c" />
-*Figura 1. Imagen de la aplicación Waze enlazada con el concepto de hibridación de Lev Manovich. Generada mediante ChatGPT Imágenes 2.0 (versión de abril de 2026).*
+_Figura 1. Imagen de la aplicación Waze enlazada con el concepto de hibridación de Lev Manovich. Generada mediante ChatGPT Imágenes 2.0 (versión de abril de 2026)._
 
-> “La palabra «multimedia» supo reflejar el fenómeno de la confluencia de contenidos procedentes de distintos medios, pero no así sus lenguajes.” (Manovich, 2013, capt. 3)
+> _“La palabra «multimedia» supo reflejar el fenómeno de la confluencia de contenidos procedentes de distintos medios, pero no así sus lenguajes.”_ (Manovich, 2013, capt. 3)
 
 
 
 
 ## Re-descubriendo la hibridacion: Preguntados
 <img width="1448" height="1086" alt="Preguntados" src="https://github.com/user-attachments/assets/7c132bf4-cad7-48c7-8ffe-fdf3c1ba4376" />
-*Figura 2. Imagen de la aplicación Preguntados enlazada con el concepto de hibridación de Lev Manovich. Generada mediante ChatGPT Imágenes 2.0 (versión de abril de 2026).*
+_Figura 2. Imagen de la aplicación Preguntados enlazada con el concepto de hibridación de Lev Manovich. Generada mediante ChatGPT Imágenes 2.0 (versión de abril de 2026)._
 
 
 
