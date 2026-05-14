@@ -136,6 +136,15 @@ También se ha utilizado para generar las imágenes que representan el concepto 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Adell, Ferran. (2014). Remediación, multimedia e hibridación de los medios [en línea] [consulta: 8 de mayo de 2026]. Disponible en:
+http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* Gea, M. (2022). Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto. GitHub. https://github.com/mgea/CCpapers
+* McMillan, R. (2012). Lord of the Files: How GitHub tamed free software (and more). GitHub. https://github.com/WiredEnterprise/Lord-of-the-Files
+* OpenAI. (2026). ChatGPT [software]. Versión de mayo de 2026. https://chat.openai.com/
+* Waze [software]. Versión de mayo de 2026.
+https://www.waze.com/es/live-map
+* Preguntados [software]. Versión de mayo de 2026.
+https://preguntados.com/#splash
 
 
 ----
