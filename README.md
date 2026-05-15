@@ -14,7 +14,7 @@ Fecha: 12/05/2026
 
 Lev Manovich propone pensar en los medios digitales como un espacio de hibridación donde las propiedades técnicas y lógicas de medios distintos se encuentran y producen una nueva configuración. En este sentido, la hibridación implica mutación y transformación. No es solo que varios formatos coexistan, sino que sus comportamientos se reconfiguran dentro del software hasta generar una experiencia coherente y difícil de separar en capas independientes.  
 
-Por ello, Manovich distingue la multimedia de la hibridación. Mientras la multimedia suele ser aditiva (una suma de componentes), la hibridación es integradora, ya que fusiona técnicas y operaciones en una nueva lógica de funcionamiento.  
+Por ello, Manovich distingue la multimedia de la hibridación. Mientras la multimedia suele ser una suma de componentes, la hibridación fusiona técnicas y operaciones en una nueva lógica de funcionamiento.  
 
 Para reconocer una hibridación conviene fijarse en qué medios previos están implicados, qué técnicas de software se comparten o pasan de un dominio a otro, y si el resultado produce una nueva “gestalt” funcional, es decir, una forma de usar y comprender la aplicación que no se reduce a la suma de elementos.
 En la hibridación, lo decisivo es la reconfiguración de técnicas hasta crear un medio mixto con reglas nuevas.  
@@ -28,7 +28,7 @@ En la hibridación, lo decisivo es la reconfiguración de técnicas hasta crear 
 <p><em>Figura 1. Imagen de la aplicación Waze enlazada con el concepto de hibridación de Lev Manovich. Generada mediante ChatGPT Imágenes 2.0 (versión de abril de 2026).</em></p>  
 
 
-Waze es conocida por ser una aplicación de navegación GPS, pero su funcionamiento real apunta a mucho más. Es un sistema de conducción asistida por datos donde la cartografía, la comunicación social, la logística urbana y el cálculo algorítmico se integran en una misma interfaz.  
+Waze es conocida por ser una aplicación de navegación GPS, pero su funcionamiento real apunta a mucho más. Es un sistema de conducción asistida por datos donde la cartografía, la comunicación social, la logística urbana y el cálculo algorítmico se constituyen en una misma interfaz.  
 
 Para entenderlo desde Manovich, conviene partir de la idea de que el software no solo representa el mundo, sino que lo hace operativo.  
 
@@ -44,7 +44,7 @@ Si se compara con la multimedia, la diferencia es clara. Una aplicación multime
 
 > _"La palabra «multimedia» supo reflejar el fenómeno de la confluencia de contenidos procedentes de distintos medios, pero no así sus lenguajes.”_ (Manovich, 2013, p. 193)
 
-Para ver cómo funciona esta hibridación en detalle, basta observar los medios y prácticas que integra Waze:
+Para ver cómo funciona esta hibridación en detalle, basta observar los medios y prácticas que forman Waze:
 -	Cartografía (representación del territorio, capas y símbolos).
 -	GPS y navegación (cálculo de posición, trayectoria y orientación).
 -	Base de datos (almacenamiento y consulta de accidentes, obras o controles).
@@ -59,7 +59,7 @@ Waze puede entenderse como un ensamblaje de esos componentes, pero con una parti
 
 En Waze, una técnica típica de redes sociales (la señalización comunitaria) se traslada a la navegación. Y una técnica propia de visualización (capas e iconos) se traslada a la coordinación colectiva. El resultado es una interfaz donde cada conductor opera como un emisor que reporta, valida y corrige.  
 
-Pero lo decisivo es que estas acciones no quedan separadas del acto de orientarse, sino que se integran en el cálculo y la conducción se transforma en una práctica de lectura y escritura de datos donde la ciudad pasa a ser un entorno computacionalmente editable.
+Pero lo decisivo es que estas acciones no quedan separadas del acto de orientarse, sino que se incluyen en el cálculo y la conducción se transforma en una práctica de lectura y escritura de datos donde la ciudad pasa a ser un entorno computacionalmente editable.
 
 > _"Los medios pueden volverse «dinámicos» ... También pueden ser «inteligentes» ... Además, pueden pasar a ser compartibles colectivamente y «editables colectivamente»: basta con pensar en proyectos de software social a gran escala”_ (Manovich, 2013, p. 371)
 
@@ -77,7 +77,7 @@ Conducir se vuelve una decisión continua entre el conocimiento local del usuari
 
 Preguntados se presenta como un juego de preguntas y respuestas, pero su éxito no se explica solo por su contenido cultural. “Desde las gafas” de Manovich, es un medio híbrido que fusiona prácticas de conocimiento (clasificar, recordar, responder, etc), formas de competición propias de los juegos de mesa y de los concursos televisivos, y dinámicas de plataforma social (retos, turnos, notificaciones, identidad, métricas, etc).  
 
-En lugar de colocar estos elementos uno al lado del otro, los integra en un mismo circuito de acción en el que aprender, competir y socializar ocurren en la misma secuencia de interfaz.
+En lugar de colocar estos elementos uno al lado del otro, los conforma en un mismo circuito de acción en el que aprender, competir y socializar ocurren en la misma secuencia de interfaz.
 
 > _"La hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje.”_ (Manovich, 2013, p. 186)
 
@@ -149,7 +149,7 @@ https://preguntados.com/#splash
 
 ----
 
-Nota: La numeración de las páginas indicadas en las citas corresponde a la conversión del libro de formato epub a formato pdf
+Nota: La numeración de las páginas indicadas en las citas corresponde a la conversión del libro _El Software toma el mando_ de formato .epub a formato .pdf
 
 ----
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0
