@@ -10,7 +10,7 @@ Fecha: 12/05/2026
 
 ---
 
-## Introducción
+## 📗 Introducción
 
 Lev Manovich propone pensar en los medios digitales como un espacio de hibridación donde las propiedades técnicas y lógicas de medios distintos se encuentran y producen una nueva configuración. En este sentido, la hibridación implica mutación y transformación. No es solo que varios formatos coexistan, sino que sus comportamientos se reconfiguran dentro del software hasta generar una experiencia coherente y difícil de separar en capas independientes.  
 
@@ -23,7 +23,7 @@ En la hibridación, lo decisivo es la reconfiguración de técnicas hasta crear 
 
 ---
 
-## Re-descubriendo la hibridación: Waze
+## 🚘 Re-descubriendo la hibridación: Waze
 <img width="1448" height="1086" alt="Waze" src="https://github.com/user-attachments/assets/577cc612-8e88-44c1-8ab4-41a4039c006c" />
 <p><em>Figura 1. Imagen de la aplicación Waze enlazada con el concepto de hibridación de Lev Manovich. Generada mediante ChatGPT Imágenes 2.0 (versión de abril de 2026).</em></p>  
 
@@ -71,7 +71,7 @@ Conducir se vuelve una decisión continua entre el conocimiento local del usuari
 
 ---
 
-## Re-descubriendo la hibridación: Preguntados
+## 💯 Re-descubriendo la hibridación: Preguntados
 <img width="1448" height="1086" alt="Preguntados" src="https://github.com/user-attachments/assets/7c132bf4-cad7-48c7-8ffe-fdf3c1ba4376" />
 <p><em>Figura 2. Imagen de la aplicación Preguntados enlazada con el concepto de hibridación de Lev Manovich. Generada mediante ChatGPT Imágenes 2.0 (versión de abril de 2026).</em></p>
 
@@ -110,7 +110,7 @@ La aplicación produce una mutación del entretenimiento, no se consume un progr
 
 ---
 
-### Valoraciones personales
+### 📝 Valoraciones personales
 
 En mi opinión, Waze muestra cómo la vida cotidiana se ha desplazado hacia medios definidos por software. La orientación deja de ser una capacidad individual basada en memoria o lectura de mapas y se combina con un sistema que agrega datos de muchos usuarios y los devuelve como recomendación.  
 
@@ -125,7 +125,7 @@ En ambos casos, lo interesante es comprobar que no estamos ante simples producto
 Pensarlas desde Manovich ayuda a ver que el software no solo añade herramientas, sino que rediseña prácticas, produce nuevas formas de coordinación, atención y hábitos que terminan naturalizándose en la experiencia cotidiana de los usuarios.
 
 ---
-### Uso de la inteligencia artificial
+### 🤖 Uso de la inteligencia artificial
 
 Para este ensayo se ha empleado la IA como ayuda en la supervisión sintáctica y de redacción, y como herramienta de soporte para referenciar correctamente las citas de la bibliografía recomendada, bajo la validación del autor.  
 
@@ -133,13 +133,13 @@ También se ha utilizado para generar las imágenes que representan el concepto 
 
 ---
 
-### Referencias y Bibliografía
+### 📚 Referencias y Bibliografía
 
 * Manovich, Lev. (2013). _El Software toma el mando_. Barcelona: Editorial UOC. 
 * Adell, Ferran. (2014). _Remediación, multimedia e hibridación de los medios_ [en línea] [consulta: 8 de mayo de 2026]. Disponible en:
 http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
-* Gea, M. (2022). _Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto_. GitHub. https://github.com/mgea/CCpapers
-* McMillan, R. (2012). _Lord of the Files: How GitHub tamed free software (and more)_. GitHub. https://github.com/WiredEnterprise/Lord-of-the-Files
+* Gea, M. (2022). _Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto_. GitHub. [en línea] [consulta: 10 de mayo de 2026]. Disponible en: https://github.com/mgea/CCpapers
+* McMillan, R. (2012). _Lord of the Files: How GitHub tamed free software (and more)_. GitHub. [en línea] [consulta: 11 de mayo de 2026]. Disponible en: https://github.com/WiredEnterprise/Lord-of-the-Files
 * OpenAI. (2026). _ChatGPT_ [software]. Versión de mayo de 2026. https://chat.openai.com/
 * _Waze_ [software]. Versión de mayo de 2026.
 https://www.waze.com/es/live-map
